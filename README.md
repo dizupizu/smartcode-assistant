@@ -96,8 +96,7 @@ The key is stored securely using VS Code Secret Storage and is never shown again
 
 If you find a bug or want to request a feature, please visit:
 
-https://github.com/deeptipandey/smartcode-assistant
-
+https://github.com/dizupizu/smartcode-assistant
 ---
 
 ## License
