@@ -1,0 +1,36 @@
+<svg
+  width="50"
+  height="40"
+  viewBox="0 0 50 40"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <g transform="translate(13 8)" fill="#d7dae0">
+
+    <!-- Left code bracket -->
+    <path d="M4 4 L0 12 L4 20 L7 20 L4 12 L7 4 Z"/>
+
+    <!-- Right code bracket -->
+    <path d="M20 4 L24 12 L20 20 L17 20 L20 12 L17 4 Z"/>
+
+    <!-- Robot head -->
+    <rect x="7" y="6" width="10" height="8" rx="2" ry="2"/>
+
+    <!-- Robot eyes -->
+    <circle cx="10" cy="10" r="1"/>
+    <circle cx="14" cy="10" r="1"/>
+
+    <!-- Robot body -->
+    <rect x="8" y="15" width="8" height="5" rx="1" ry="1"/>
+
+    <!-- Check mark -->
+    <path
+      d="M10 18 L11.5 19.5 L14 17"
+      fill="none"
+      stroke="#d7dae0"
+      stroke-width="1.5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+  </g>
+</svg>
